@@ -27,4 +27,4 @@
    ```
 
 ## Видео-презентация
-Ссылка на видео: 
+Ссылка на видео: https://drive.google.com/file/d/1L4D_2yKfNMETDApgmTuYnrZ1htkncJfj/view?usp=sharing
