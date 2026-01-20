@@ -1,0 +1,61 @@
+мини отчет: кому нужно внимание
+
+порог по баллу: 74.98
+порог по посещаемости: 50.10%
+
+группа 1: низкий балл и низкая посещаемость
+студентов: 3047
+Student_ID      Full_Name Grade_Level  avg_exam_score  attendance_rate
+    S07829     Juan Young     Grade 2            40.0            32.26
+    S08408 Caitlin Garcia     Grade 3            40.0            34.62
+    S08900    Jose Porter     Grade 2            40.0            37.50
+    S08434 Katie Harrison     Grade 3            40.0            40.00
+    S06936     Carl Banks     Grade 2            40.0            40.62
+    S06481  natalie clark     Grade 4            40.0            41.38
+    S09540     Amber Bush     Grade 2            40.0            43.33
+    S06723     Anita Ward     Grade 3            40.0            43.48
+    S09066   Kelsey Moore     Grade 3            40.0            44.44
+    S05960   Angela Brown     Grade 2            40.0            46.15
+    S07324 Michael Morgan     Grade 2            40.0            46.88
+    S00402 Brian Johnston     Grade 4            40.0            48.15
+    S04282   Wendy Herman     Grade 5            40.0            50.00
+    S04874   Jamie Wright     Grade 1            40.0            50.00
+    S09084    Mark Taylor     Grade 2            41.0            39.29
+
+группа 2: низкий балл, но посещаемость нормальная
+студентов: 2652
+Student_ID       Full_Name Grade_Level  avg_exam_score  attendance_rate
+    S09253   Jackson White     Grade 5            40.0            72.41
+    S11555 Matthew Stanley     Grade 4            40.0            66.67
+    S12018       Ryan Frye     Grade 2            40.0            66.67
+    S12143     John Abbott     Grade 4            40.0            64.86
+    S02858  Valerie Sutton     Grade 3            40.0            61.76
+    S01703    David Sutton     Grade 3            40.0            61.54
+    S11958  Crystal Sparks     Grade 3            40.0            58.33
+    S04893       Paul Dunn     Grade 4            40.0            56.67
+    S06715    Jessica Reed     Grade 3            40.0            55.88
+    S03800    Monica Doyle     Grade 3            40.0            55.00
+    S03419     Jesse Petty     Grade 1            40.0            53.85
+    S09381   Whitney Barry     Grade 1            40.0            52.63
+    S09883     Jason Bates     Grade 1            40.0            52.17
+    S11458  Melissa Miller     Grade 1            40.0            52.17
+    S01916      Robin Shaw     Grade 4            40.5            56.25
+
+группа 3: балл нормальный, но посещаемость низкая
+студентов: 3422
+Student_ID            Full_Name Grade_Level  avg_exam_score  attendance_rate
+    S06438        Marisa Bender     Grade 5           91.33            16.13
+    S08271 Joseph Rodriguez DDS     Grade 5           80.00            17.39
+    S12088         Matthew Gill     Grade 2           80.50            18.75
+    S09527            Mary Gray     Grade 1           96.50            20.59
+    S00088        Michele James     Grade 5             NaN            21.21
+    S11587          Aaron Smith     Grade 3           97.00            21.43
+    S08730     Zachary Mitchell     Grade 3             NaN            21.43
+    S05958        Robert Farley     Grade 2           80.67            21.88
+    S06121         tracy arroyo     Grade 3          103.50            22.22
+    S05191      Mr. Aaron Adams     Grade 5           84.50            22.22
+    S01413           Carl Adams     Grade 1           79.00            22.58
+    S04088        Tami Schwartz     Grade 1           75.33            22.58
+    S02001          Brian Moore     Grade 3           92.33            23.08
+    S04522        Noah Williams     Grade 5           82.67            23.08
+    S01811 mr. travis carter md     Grade 3           89.00            23.81
